@@ -1,7 +1,14 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently studying
+I'm Mohamed Benabdallah Belbaraka, a passionate and curious Web Developper/Cybersecurity enthusiast based in Morocco or Remote 🌍.
+
+- 🔭 I’m currently working on The Odin Project.
+- 🌱 I’m exploring Cybersecurity and Ethical Hacking.
+- 👯 I’m looking to collaborate on frontend and full-stack website projects to sharpen my skills and build awesome user experiences.
+- 💬 Feel free to reach out if you have questions about cybersecurity principles, ethical hacking, or web technologies.
+- 🎮 Outside of coding, I enjoy gaming, reading tech blogs, and working out.
+
 
 
 ## 🌐 Socials:
