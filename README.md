@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hi+there%2C+welcome+to+my+GitHub!;🚀+Exploring+code+and+creating+magic;💡+Always+learning+something+new!" alt="Typing SVG" />
+</p>
+
 
 ![Welcome](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
