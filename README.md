@@ -1,9 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9D7AFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
-    <img alt="Shows typed text" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 
