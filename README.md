@@ -8,18 +8,16 @@ I'm Mohamed Benabdallah Belbaraka, a passionate and curious Web Developper/Cyber
 <table>
   <tr>
     <td width="60%">
-      
-  <p>
-    - 🔭 I’m currently working on The Odin Project.
-    - 🌱 I’m exploring Cybersecurity and Ethical Hacking.
-    - 👯 I’m looking to collaborate on frontend and full-stack website <br> projects to sharpen my skills and build awesome user experiences.
-    - 💬 Feel free to reach out if you have questions about cybersecurity <br> principles, ethical hacking, or web technologies.
-    - 🎮 Outside of coding, I enjoy gaming, reading tech blogs, and working out.
-  </p>
-
+      <ul>
+        <li>🛠️ I’m currently working on <strong>The Odin Project</strong>.</li>
+        <li>🌱 I’m exploring <strong>Cybersecurity</strong> and <strong>Ethical Hacking</strong>.</li>
+        <li>🤝 I’m looking to collaborate on projects to sharpen my skills and build awesome user experiences.</li>
+        <li>💬 Feel free to reach out if you have questions about <strong>cybersecurity principles, ethical hacking, or web technologies</strong>.</li>
+        <li>🎮 Outside of coding, I enjoy <strong>gaming, reading tech blogs, and working out</strong>.</li>
+      </ul>
     </td>
     <td>
-      <img src="https://camo.githubusercontent.com/d86c8133d9c453427eca06cdc4f7bd875bfcc69c7a2aa32c3d8dad5edd18c4e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f39312f36312f65373931363131373138323135613063666330616239366537316431646333662e676966" width="350px">
+      <img src="[https://media.giphy.com/media/YOUR-GIF-LINK.gif](https://camo.githubusercontent.com/d86c8133d9c453427eca06cdc4f7bd875bfcc69c7a2aa32c3d8dad5edd18c4e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f39312f36312f65373931363131373138323135613063666330616239366537316431646333662e676966)" width="300"/>
     </td>
   </tr>
 </table>
