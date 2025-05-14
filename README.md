@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!" alt="Typing SVG" />
-</p>
-
-![Snowfall](https://github.com/JesseDeBoer/JesseDeBoer/blob/output/github-contribution-grid-snake.svg?palette=purple,blue)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7B68EE&background=FFFFFF00&center=true&vCenter=true&width=800&lines=✨+Blue+Purple+Rainbow+Theme+✨;❄️+With+Animated+Snowfall+❄️" alt="Additional Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9D7AFF&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=6A5ACD&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
+    <img alt="Shows typed text" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!">
+  </picture>
 </p>
 
 
