@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7F00FF,4B0082,0000FF,00FFFF,00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Hi%2C+welcome+to+SimoG's+GitHub!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=👋+Hi%2C+welcome+to+SimoG's+Github!;🚀+Exploring+code+and+creating+magic🧙;💡+Always+learning+something+new!" alt="Typing SVG" />
+</p>
+
+![Snowfall](https://github.com/JesseDeBoer/JesseDeBoer/blob/output/github-contribution-grid-snake.svg?palette=purple,blue)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=7B68EE&background=FFFFFF00&center=true&vCenter=true&width=800&lines=✨+Blue+Purple+Rainbow+Theme+✨;❄️+With+Animated+Snowfall+❄️" alt="Additional Typing SVG" />
 </p>
 
 
