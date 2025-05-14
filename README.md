@@ -17,7 +17,7 @@ I'm Mohamed Benabdallah Belbaraka, a passionate and curious Web Developper/Cyber
       </ul>
     </td>
     <td>
-      <img src="[https://media.giphy.com/media/YOUR-GIF-LINK.gif](https://camo.githubusercontent.com/d86c8133d9c453427eca06cdc4f7bd875bfcc69c7a2aa32c3d8dad5edd18c4e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f39312f36312f65373931363131373138323135613063666330616239366537316431646333662e676966)" width="300"/>
+      <img src="https://camo.githubusercontent.com/d86c8133d9c453427eca06cdc4f7bd875bfcc69c7a2aa32c3d8dad5edd18c4e1/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65372f39312f36312f65373931363131373138323135613063666330616239366537316431646333662e676966" width="300"/>
     </td>
   </tr>
 </table>
