@@ -40,6 +40,8 @@ I'm Mohamed Benabdallah Belbaraka, a passionate and curious Web Developper/Cyber
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimoG3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![Contribution](https://camo.githubusercontent.com/eb44e3df8612d41a65ad5806bc8615a85e092f0403cef0477e8f47955ab12578/68747470733a2f2f692e696d6775722e636f6d2f78314b627543712e676966)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimoG3/SimoG3/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimoG3/SimoG3/output/github-snake.svg" />
