@@ -14,7 +14,7 @@ I'm Mohamed Benabdallah Belbaraka, a passionate and curious Web Developper/Cyber
       <ul>
         <li>🛠️ I’m currently working on <strong>The Odin Project</strong>.</li>
         <li>🌱 I’m exploring <strong>Cybersecurity</strong> and <strong>Ethical Hacking</strong>.</li>
-        <li>🤝 I’m looking to collaborate on projects to sharpen my skills and build awesome user experiences.</li>
+        <li>🤝 I’m looking to collaborate on projects to sharpen my Web Development skills and build awesome user experiences.</li>
         <li>💬 Feel free to reach out if you have questions about <strong>cybersecurity principles, ethical hacking, or web technologies</strong>.</li>
         <li>🎮 Outside of coding, I enjoy <strong>gaming, reading tech blogs, and working out</strong>.</li>
       </ul>
